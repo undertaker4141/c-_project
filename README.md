@@ -1,1 +1,2 @@
-# c-_project
+# C++ Project
+
