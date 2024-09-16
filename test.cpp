@@ -33,5 +33,9 @@ int main() {
     Dog d(5);
     d.Eat("Dog");
     d.Woff();
+    for(int break=0;break<10;break++){
+        cout<<break<<endl;
+        break;
+    }
     return 0;
 }
