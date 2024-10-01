@@ -1,0 +1,1 @@
+{"name":"Local: 002","url":"/home/undertaker4141/repos/cpp-project/eecsoj_base/002.cpp","tests":[{"id":1727769654171,"input":"341 176","output":"13"},{"id":1727769677679,"input":"4321 1234 ","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/undertaker4141/repos/cpp-project/eecsoj_base/002.cpp","group":"local","local":true}
